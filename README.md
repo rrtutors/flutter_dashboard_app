@@ -3,7 +3,7 @@
 A new Flutter application.
 
 
-http://rrtutors.com/uploads/langpostimg/Screenshot_20190714-060321.png
+![alt text](http://rrtutors.com/uploads/langpostimg/Screenshot_20190714-060321.png)
 
 ## Getting Started
 
